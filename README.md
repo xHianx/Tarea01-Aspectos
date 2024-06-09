@@ -1,1 +1,4 @@
 # Tarea01-Aspectos
+Primero, hemos implementado una funcionalidad de auditoría mediante el uso de cross cutting con el fin de que se registrara cada cambio en el color de fondo de la ventana. Este aspecto de auditoría es un ejemplo claro de una preocupación transversal, ya que su funcionalidad se aplica en diversas partes de la aplicación, específicamente cada vez que se modifica el color de fondo.
+Además, se añadió un sistema de registro de eventos igualmente mediante el uso de cross cutting. Este componente se encarga de registrar y mantener un log de todos los eventos que ocurren en la aplicación, tratándolos como un aspecto separado.
+También, hemos introducido una nueva funcionalidad mediante un pointcut, que añade texto a un JLabel. Esta funcionalidad permite registrar en la pantalla cuál botón ha sido clickeado, proporcionando una forma visible de seguimiento de eventos en la interfaz de usuario.
