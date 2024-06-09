@@ -1,0 +1,21 @@
+
+[Registro de Eventos] Botón clickeado en 2024-06-09T12:58:43.008460200
+[Auditoria] Cambio de color realizado 2024-06-09T12:58:43.009457400 verde
+[Registro de Eventos] Botón clickeado en 2024-06-09T12:58:43.948355700
+[Auditoria] Cambio de color realizado 2024-06-09T12:58:43.949370900 rojo
+[Registro de Eventos] Botón clickeado en 2024-06-09T12:58:44.684730100
+[Auditoria] Cambio de color realizado 2024-06-09T12:58:44.685732 azul
+[Registro de Eventos] Botón clickeado en 2024-06-09T12:58:45.116942700
+[Auditoria] Cambio de color realizado 2024-06-09T12:58:45.117937300 verde
+[Registro de Eventos] Botón clickeado en 2024-06-09T12:58:45.588963200
+[Auditoria] Cambio de color realizado 2024-06-09T12:58:45.588963200 rojo
+[Registro de Eventos] Botón clickeado en 2024-06-09T12:58:45.948429400
+[Auditoria] Cambio de color realizado 2024-06-09T12:58:45.949432 verde
+[Registro de Eventos] Botón clickeado en 2024-06-09T13:04:25.982335
+[Auditoria] Cambio de color realizado 2024-06-09T13:04:25.983334200 azul
+[Registro de Eventos] Botón clickeado en 2024-06-09T13:04:26.850933600
+[Auditoria] Cambio de color realizado 2024-06-09T13:04:26.850933600 verde
+[Registro de Eventos] Botón clickeado en 2024-06-09T13:04:27.578249500
+[Auditoria] Cambio de color realizado 2024-06-09T13:04:27.578249500 rojo
+[Registro de Eventos] Botón clickeado en 2024-06-09T13:04:28.106772900
+[Auditoria] Cambio de color realizado 2024-06-09T13:04:28.106772900 azul
